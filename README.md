@@ -1,3 +1,3 @@
-# MalDev and internal Red Team Blog
+# Blog for Red Teamers and Penetration Testers
 ## Summary
 
